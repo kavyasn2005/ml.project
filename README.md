@@ -1,5 +1,8 @@
 # Ecommerce Sales Prediction Model
 
+<img width="1117" height="697" alt="image" src="https://github.com/user-attachments/assets/d560bf58-9c1b-4d57-9c20-d52b92df5a13" />
+
+
 ## Project Description
 
 This is a Django-based web application that uses a machine learning model to predict ecommerce sales based on the quantity of items. The application provides a simple web interface where users can input a quantity value, and the model will predict the corresponding sales amount.
@@ -100,3 +103,4 @@ Feel free to fork the repository and submit pull requests for improvements or bu
 ## License
 
 This project is open-source. Please check the license file for more details.
+
